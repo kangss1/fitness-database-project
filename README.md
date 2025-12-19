@@ -1,6 +1,6 @@
 # Fitness Database Project
 **Developed by:** Sandeep Kang  
-**Course:** INFO I308: Information Representation – IUPUI  
+**Course:** INFO I308: Information Representation – Indiana University Indianapolis  
 **Semester:** Summer 2025  
 
 ---
